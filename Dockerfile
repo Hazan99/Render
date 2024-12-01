@@ -1,6 +1,6 @@
 FROM node:20
 
-RUN git clone https://github.com/Hazan99/Queen_Alya.git /root/STAR-KING0
+RUN git clone https://github.com/Hazan99/Lazack-Device.git /root/STAR-KING0
 
 # Clear npm cache and remove node_modules directories
 RUN npm cache clean --force
